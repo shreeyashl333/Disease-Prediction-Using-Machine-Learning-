@@ -1,4 +1,4 @@
-# Disease-Prediction-Using-Machine-Learning-
+# Disease-Prediction-Using-Machine-Learning
 
 - Applied different machine learning techniques for classification on the dataset. 
 - Compared the performance. 
